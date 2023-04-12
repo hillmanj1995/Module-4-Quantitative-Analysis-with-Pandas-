@@ -1,1 +1,3 @@
-# Module-4-Quantitative-Analysis-with-Pandas-
+# Analyzing Portfolio Risk and Return
+
+The Analyst was tasked with evaluating four new investment options for inclusion in client portfolios: Soros Fund Management LLC, Paulson & CO INC., Tiger Global Management LLC, and Berkshire Hathaway INC.  The Analyst created an analysis to determine the fund with the most investment potential based on key risk-management metrics: the daily returns, standard deviations, Sharpe ratios, and betas.
